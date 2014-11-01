@@ -1,0 +1,11 @@
+{
+  "name": "trendy-inspired-be-real-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Theme inspired by Trendy and pallet by be real: http://www.colourlovers.com/palette/3503666/be_real ",
+  #"repository": "https://github.com/mediadoneright/atom-theme-trendy-inspired-be-real.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
